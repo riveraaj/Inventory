@@ -5,3 +5,4 @@ This is an article inventory management project which works with the SQL server 
 
 You will find the code in the Spanish language.
 
+[![Untitled.png](https://i.postimg.cc/GhK00HZg/Untitled.png)](https://postimg.cc/nCXSBcVq)
