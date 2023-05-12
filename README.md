@@ -33,7 +33,7 @@ These are the high-level requirements that were met for the solution:
 - JAVA
 - SQLServer
 
-[Back To The Top](#Item Inventory Management)
+[Back To The Top](#Item)
 
 ## Author Info
 
