@@ -1,7 +1,7 @@
 # Item Inventory Management
 
 
-[Project Image](https://raw.githubusercontent.com/riveraaj/Inventory/main/src/inventory.png)
+![Project Image](https://raw.githubusercontent.com/riveraaj/Inventory/main/src/inventory.png)
 
 > This is an article inventory management project which works with the SQL Server database, has a Login, inventory registration, inventory allocation to three different warehouses and, in turn, has a user manual.
 
