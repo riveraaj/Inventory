@@ -36,4 +36,4 @@ These are the high-level requirements that were met for the solution:
 ## Author Info
 
 - Linkedin - [jriveraa](https://www.linkedin.com/in/jriveraaa/)
-- Website - [Jonathan R.V](https://jamesqquick.com)
+- Website - [Jonathan R.V](https://riveraaj.github.io/Portfolio/)
